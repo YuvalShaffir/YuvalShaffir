@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [an Image Processing utility library](https://github.com/YuvalShaffir/ImProUtils)
 
-- 🌱 I’m currently learning **OS, Algorithms, Databases, Image Processing, OpenCV, Altium, Fusion360**
+- 🌱 I’m currently learning **OS, Algorithms, Databases, Image Processing, OpenCV, Altium, Fusion360, and Spanish**
 
 - 📫 How to reach me **yshaffir@gmail.com**
 
