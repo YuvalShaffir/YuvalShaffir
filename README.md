@@ -2,8 +2,6 @@
 
 I'm an Electrical Engineering & Computer Science Student from the Hebrew University in Israel. My coding projects are built from the ground up, from planning to solving problems and testing.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvalshaffir&label=Profile%20views&color=0e75b6&style=flat" alt="yuvalshaffir" /> </p>
-
 ---
 
 - 🔭 I’m currently working on [an Image Processing utility library](https://github.com/YuvalShaffir/ImProUtils)
@@ -32,6 +30,8 @@ I'm an Electrical Engineering & Computer Science Student from the Hebrew Univers
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvalshaffir&show_icons=true&locale=en&theme=grovbox" alt="yuvalshaffir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvalshaffir&theme=grovbox" alt="yuvalshaffir" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvalshaffir&label=Profile%20views&color=0e75b6&style=flat" alt="yuvalshaffir" /> </p>
 
 <!--
 **YuvalShaffir/YuvalShaffir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
