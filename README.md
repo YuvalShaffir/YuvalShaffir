@@ -4,7 +4,7 @@ I'm an Electrical Engineering & Computer Science Student from the Hebrew Univers
 
 ---
 
-- 🔭 I’m currently working on [an Image Processing utility library](https://github.com/YuvalShaffir/ImProUtils)
+- 🔭 I’m currently working on [an Image Processing utility library](https://github.com/YuvalShaffir/ImProUtils), and on [Accountability Tracker](https://github.com/YuvalShaffir/Acountability-Tracker).
 
 - 🌱 I’m currently learning **OS, Algorithms, Databases, Image Processing, OpenCV, Altium, Fusion360, and Spanish**
 
