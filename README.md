@@ -15,7 +15,7 @@ Please feel free to inquire about any of my repos. 😀
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Reinforcement Learning, Diffusion, Tensorflow, and more. 
 
 
-## Accountability Tracker (2023) - In Progress
+## [Accountability-Tracker (2023)](https://github.com/YuvalShaffir/accountabilityTracker) - In Progress
 ### Browsing history data scrapper, uses ML to categorize websites and sends a pie chart to an accountability friend through Telegram.
 Following the events of the October 7th war, I observed a significant surge in news and social media consumption among my friends, family, and myself. 
 This surge negatively impacted our work efficiency, prompting me to seek a solution. Drawing from my experiences with accountability partners during my student life, I developed a tool aimed at enhancing productivity.
@@ -27,7 +27,7 @@ This innovative approach not only addresses the challenges posed by increased me
 
 ![Accountability Tracker](https://github.com/YuvalShaffir/accountabilityTracker/assets/34415892/05f24280-f093-4839-a238-7f5c63d05da4)
 
-## ImProUtils (2023) - In Progress
+## [ImProUtils (2023)](https://github.com/YuvalShaffir/ImProUtils) - In Progress
 ### This is an image-processing utility library that I created to boost my future projects and also dive deep into many image-processing subjects.
 The most impactful course I've undertaken during my university journey is undoubtedly the Image Processing course. It wasn't the ease of the exams that made it stand out; in fact, it was one of the most challenging courses. 
 Its significance lies in its inherent interest to me and the profound impact it had on redirecting my career path.
