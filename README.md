@@ -1,50 +1,53 @@
-# 🏂 Yuval Shaffir #
+# 🏂 About Me
 
-I'm an Electrical Engineering & Computer Science Student from the Hebrew University in Israel. My coding projects are built from the ground up, from planning to solving problems and testing.
+🎓  am a fourth-year **Electrical Engineering & Computer Science** student at the Hebrew University in Israel. 
+I find great excitement in solving problems, particularly those that I encounter in my own life. 
+All of my projects are meticulously crafted from the ground up, reflecting my passion for learning and delving into various subjects. 
+Please feel free to inquire about any of my repos. 😀
 
----
+**Subjects that I'm pursuing at the moment:** Image Processing, Deep learning, Arduino, Python OOP, 3D printing, and Fusion360.
 
-- 🔭 I’m currently working on [an Image Processing utility library](https://github.com/YuvalShaffir/ImProUtils), and on [Acountability Tracker](https://github.com/YuvalShaffir/Acountability-Tracker).
+📫 **Reach me at:** **yshaffir@gmail.com**
 
-- 🌱 I’m currently learning **OS, Algorithms, Databases, Image Processing, OpenCV, Altium, Fusion360, and Spanish**
+# Tech Stack
+- **Python:** Decorators, Generators, OOP, Numpy, Pandas, and more.
+- **C \ C++:** STL, Templates, Inheritance, Generics, and more.
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Reinforcement Learning, Diffusion, Tensorflow, and more. 
 
-- 📫 How to reach me **yshaffir@gmail.com**
 
----
+## Accountability Tracker (2023) - In Progress
+### Browsing history data scrapper, uses ML to categorize websites and sends a pie chart to an accountability friend through Telegram.
+Following the events of the October 7th war, I observed a significant surge in news and social media consumption among my friends, family, and myself. 
+This surge negatively impacted our work efficiency, prompting me to seek a solution. Drawing from my experiences with accountability partners during my student life, I developed a tool aimed at enhancing productivity.
+
+This tool generates a categorized pie chart of my internet usage, breaking down the data into specific subjects such as Work, Social Media, News, and more.
+To achieve this, I utilize cloudscraper for website data scraping and the Google Language V1 categorization model to analyze and categorize the metadata from various websites. 
+This innovative approach not only addresses the challenges posed by increased media consumption but also provides a tangible solution for maintaining focus and productivity.
+
+
+![Accountability Tracker](https://github.com/YuvalShaffir/accountabilityTracker/assets/34415892/05f24280-f093-4839-a238-7f5c63d05da4)
+
+## ImProUtils (2023) - In Progress
+### This is an image-processing utility library that I created to boost my future projects and also dive deep into many image-processing subjects.
+The most impactful course I've undertaken during my university journey is undoubtedly the Image Processing course. It wasn't the ease of the exams that made it stand out; in fact, it was one of the most challenging courses. 
+Its significance lies in its inherent interest to me and the profound impact it had on redirecting my career path.
+
+Motivated by my passion for the subject, I crafted this utility library to serve as a valuable resource for my upcoming projects in the realm of Image Processing. 
+Beyond aiding in future endeavors, the library serves as a tool for delving deep into both the concepts I've already learned and those I aspire to explore further.
+
+![ImgProUtils](https://github.com/YuvalShaffir/ImProUtils/assets/34415892/592d6f76-344d-4074-b84e-511362b2d15e)
+
 
 ### 📞 Connect with me: ###
 <p align="left">
 <a href="https://linkedin.com/in/yuval-shaffir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuval-shaffir" height="30" width="40" /></a>
 </p>
 
----
-
-### 🧰 Languages and Tools: ###
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
----
 
 ### Stats: ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvalshaffir&show_icons=true&locale=en&layout=compact&theme=grovbox" alt="yuvalshaffir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvalshaffir&show_icons=true&locale=en&theme=grovbox" alt="yuvalshaffir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvalshaffir&theme=grovbox" alt="yuvalshaffir" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvalshaffir&label=Profile%20views&color=0e75b6&style=flat" alt="yuvalshaffir" /> </p>
 
-<!--
-**YuvalShaffir/YuvalShaffir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="right" alt="coder" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
