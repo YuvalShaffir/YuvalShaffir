@@ -3,7 +3,7 @@
 I like going after problems I haven't solved before and figuring out how to crack them.
 Most of what's here I built from scratch, usually because I wanted to understand how something works rather than just use it. Happy to talk about any of it.
 
-- 💼 Python engineer at **D-Fend Solutions** (Motorola Solutions), building production lines backend services and internal infrastructure to manufacture counter-drone hardware
+- 💼 Software Engineer building production lines backend services and internal infrastructure to manufacture counter-drone hardware
 - 🎓 BSc Electrical Engineering & Computer Science, Hebrew University of Jerusalem
 - 🔭 Currently into: **robotics**, **computer vision**, **agent engineering**, and **backend systems**
 - 📫 Reach me at: yshaffir@gmail.com
